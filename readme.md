@@ -82,7 +82,7 @@ graph TB
 
 ### Requirements
 
-- Python 3.8+
+- Python 3.11+
 - Docker (for ChromaDB)
 - Ollama (LLM server)
 - CUDA (optional, for GPU support)
